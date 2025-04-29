@@ -1,5 +1,19 @@
 https://www.youtube.com/watch?v=O1qGAkWM9-0
 
+WHATICKET
+
+====================================
+
+[ 1 ] INSTALAR WHATICKET
+
+====================================
+
+### PRÉ-REQUISITOS
+
+[ 1 ] DOCKER DESKTOP
+[ 2 ] GIT
+[ 3 ] NODE (16.21)
+
 ====================================
 
 ### EXECUTAR DOCKER DESKTOP
